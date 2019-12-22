@@ -1,6 +1,6 @@
 const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize';
 const CLIENT_ID = 'deed804337884b17b03969c74016245c';
-const REDIRECT_URI = 'https://toftt.github.io/calendar/';
+const REDIRECT_URI = 'https://toftt.github.io/christmas-calendar/';
 const SCOPES = [
   'user-top-read',
   'user-modify-playback-state',
